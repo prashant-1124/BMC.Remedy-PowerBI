@@ -1,1 +1,1 @@
-#[BMC Remedy PowerBI report for ITSM]
+#BMC Remedy PowerBI report for ITSM
